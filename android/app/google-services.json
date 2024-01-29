@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430455547992",
+    "firebase_url": "https://my-study-life-5932b.firebaseio.com",
+    "project_id": "my-study-life-5932b",
+    "storage_bucket": "my-study-life-5932b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430455547992:android:49fd67365f8d6d03",
+        "android_client_info": {
+          "package_name": "com.virblue.mystudylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430455547992-o1r2kof79h2gtl0qefmve1al1ume4cfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN93aKwMb7MqK8UKAvQOZLd3_EaSwi5Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430455547992-o1r2kof79h2gtl0qefmve1al1ume4cfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430455547992-digdehufftknf27cie9obdh12vacduok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mystudylife.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
